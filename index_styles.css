@@ -1,0 +1,12 @@
+		TD {background-color:white;padding-top:5px;padding-left:10px;padding-right:10px}
+		TH {background-color:#0199B4;padding-top:5px;padding-left:10px;padding-right:10px}
+		H1 {font-family:arial}
+		H2 {font-family:arial}
+		P {font-family:arial;font-size:12pt}
+		BODY {background-color:#999999}
+		TABLE{margin:auto}
+		table.center {margin-left:auto; margin-right:auto;}
+		div.opacity {opacity: 0.25;}
+		img.float1 {float: middle;}
+		div.ul {text-decoration:underline;}
+		caption {display: table-caption;text-align: center;}
